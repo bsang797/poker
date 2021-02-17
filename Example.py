@@ -1,10 +1,4 @@
-import pandas
-import webbrowser
-import os
-from Functions import *
-from Reports import *
 from MainMenu import *
-from datetime import datetime
 
 overview_file = os.getcwd()+"/Data/overview.csv"
 people_file = os.getcwd()+"/Data/people.csv"
