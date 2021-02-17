@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf7b7266-9fae-4c9a-b451-85a9810f722f" name="Default Changelist" comment="&quot;added function for creating html file. added reconcliation class&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kkAxXwDs1GP4mjVWPLuTTKjtJU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Example">
+    <configuration name="Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokerAccounting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainMenu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokerAccounting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MainMenu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reports" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokerAccounting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\bosan\PycharmProjects\PokerAccounting\Reports.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokerAccounting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PokerAccounting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Example" />
+        <item itemvalue="Python.MainMenu" />
+        <item itemvalue="Python.Scratch" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Reports" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf7b7266-9fae-4c9a-b451-85a9810f722f" name="Default Changelist" comment="" />
+      <created>1606234462617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606234462617</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;added function for creating html file. added reconcliation class&quot;">
+      <created>1606872874466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606872874466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;added function for creating html file. added reconcliation class&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added function for creating html file. added reconcliation class&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608236152273">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608236152273" />
+    <state x="1700" y="278" key="FileChooserDialogImpl" timestamp="1606279880412">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1700" y="278" key="FileChooserDialogImpl/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1606279880412" />
+    <state width="2539" height="2" key="GridCell.Tab.0.bottom" timestamp="1613535284755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608766134605" />
+    <state width="2539" height="2" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1613535284755" />
+    <state width="1250" height="210" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608191241722" />
+    <state width="2539" height="2" key="GridCell.Tab.0.center" timestamp="1613535284755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1259" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1608766134605" />
+    <state width="2539" height="2" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1613535284755" />
+    <state width="1250" height="210" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608191241721" />
+    <state width="2539" height="2" key="GridCell.Tab.0.left" timestamp="1613535284755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1259" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1608766134605" />
+    <state width="2539" height="2" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1613535284755" />
+    <state width="1250" height="210" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608191241721" />
+    <state width="2539" height="2" key="GridCell.Tab.0.right" timestamp="1613535284755">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1259" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1608766134605" />
+    <state width="2539" height="2" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1613535284755" />
+    <state width="1250" height="210" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608191241721" />
+    <state width="1250" height="178" key="GridCell.Tab.1.bottom" timestamp="1608389405711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1250" height="178" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608389405711" />
+    <state width="1250" height="178" key="GridCell.Tab.1.bottom/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608238777802" />
+    <state width="1250" height="178" key="GridCell.Tab.1.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608190914092" />
+    <state width="1250" height="178" key="GridCell.Tab.1.center" timestamp="1608389405711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1250" height="178" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1608389405711" />
+    <state width="1250" height="178" key="GridCell.Tab.1.center/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608238777802" />
+    <state width="1250" height="178" key="GridCell.Tab.1.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608190914091" />
+    <state width="1250" height="178" key="GridCell.Tab.1.left" timestamp="1608389405710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1250" height="178" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1608389405710" />
+    <state width="1250" height="178" key="GridCell.Tab.1.left/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608238777802" />
+    <state width="1250" height="178" key="GridCell.Tab.1.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608190914091" />
+    <state width="1250" height="178" key="GridCell.Tab.1.right" timestamp="1608389405711">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1250" height="178" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608389405711" />
+    <state width="1250" height="178" key="GridCell.Tab.1.right/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608238777802" />
+    <state width="1250" height="178" key="GridCell.Tab.1.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1608190914091" />
+    <state x="141" y="168" key="SettingsEditor" timestamp="1606886745020">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="141" y="168" key="SettingsEditor/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1606886745020" />
+    <state x="1729" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606872837892">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1729" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1606872837892" />
+    <state x="844" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608238641293">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="844" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608238641293" />
+    <state x="1583" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608072574363">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1583" y="225" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040/2560.0.1280.680@0.0.2560.1040" timestamp="1608072574363" />
+  </component>
+</project>
