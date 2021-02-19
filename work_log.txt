@@ -1,0 +1,9 @@
+###### Feb 18 ######
+New changes to current structure:
+- Currently remove reports as classes, doing just scripts atm
+- Added new account summary csv file
+- In transactions.csv, chip_purchase should have 1(buyin), -1(buyout), 0(no chips involved)
+states. It helps to track win and loss over time
+
+Some changes to be discussed:
+- Elimiante eliminate role.csv and merge it with people.csv?
